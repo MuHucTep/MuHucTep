@@ -35,4 +35,4 @@ I am a passionate **Backend Developer** focused on building scalable, efficient,
 
 ### 📊 GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuHucTep&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
