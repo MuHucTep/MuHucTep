@@ -16,6 +16,8 @@ I am a passionate **Backend Developer** focused on building scalable, efficient,
 ### Databases & Tools
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-33145B?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![DevTools](https://img.shields.io/badge/DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 
 ---
 
