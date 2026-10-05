@@ -1,6 +1,8 @@
 # Hi there, I'm Alex! 👋
 
-I am a passionate **Backend Developer** focused on building scalable, efficient, and clean server-side applications. I love turning complex problems into simple, elegant code.
+👋 Hi, I'm a Backend Developer passionate about designing scalable and efficient server-side applications.
+
+I enjoy untangling complex problems and turning them into simple, elegant, maintainable code. I care about clean architecture, performance, and code that's easy for others to work with.
 
 ---
 
